@@ -9,4 +9,4 @@ let totalDue = foodCost + tax + tip;
 // output the results to the console
 console.log("Food cost is " + foodCost + " and tax is " + tax)
 console.log("The tip is " + tip)
-console.log("The totatl due is " + totalDue)
+console.log("The total due is " + totalDue)
