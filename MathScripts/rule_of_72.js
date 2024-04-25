@@ -7,3 +7,4 @@ let timeToDouble = 72/ interestRate;
 
 // console output
 console.log("At a " + interestRate + "% interest rate, your savings account will be worth $" + doubledBalance + " in " + timeToDouble + " years.");
+
